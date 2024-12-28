@@ -1,0 +1,15 @@
+PS C:\Users\tsuki\git_kadai\git_challenge> git log
+commit 231a0de694257e1d19f251e8cbe033fa8acc2a0d (HEAD -> master)
+Author: Vincent-Kreutzer <tsukishiro1986@hotmail.co.jp>
+Date:   Sat Dec 28 22:54:54 2024 +0900
+
+    hello_world.txtに文章を追加
+
+commit 8ed3665ebff27a62998fd3629141a52e95ca088a
+Author: Vincent-Kreutzer <tsukishiro1986@hotmail.co.jp>
+Date:   Sat Dec 28 22:53:11 2024 +0900
+
+    hell_world.txtを作成
+PS C:\Users\tsuki\git_kadai\git_challenge> git log --oneline
+231a0de (HEAD -> master) hello_world.txtに文章を追加
+8ed3665 hell_world.txtを作成
